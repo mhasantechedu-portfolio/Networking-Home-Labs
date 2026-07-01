@@ -33,3 +33,6 @@ Each lab includes:
 - Routing
 - Network Troubleshooting
 - Bash
+
+
+***Note: Network addresses, hostnames, and screenshots have been sanitized to protect personal information while preserving the technical content of the labs.***
